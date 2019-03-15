@@ -1,0 +1,1321 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LAB\n"
+"PO-Revision-Date: 2017-06-07 23:25+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: \n"
+"Language: en\n"
+
+#: Controller/ActualitesController.php:54;93;124;154;191;220
+msgid "Invalid actualite"
+msgstr ""
+
+#: Controller/ActualitesController.php:72;99;172;197
+msgid "The actualite has been saved."
+msgstr ""
+
+#: Controller/ActualitesController.php:75;102;175;200
+msgid "The actualite could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ActualitesController.php:128;224
+msgid "The actualite has been deleted."
+msgstr ""
+
+#: Controller/ActualitesController.php:130;226
+msgid "The actualite could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/AppController.php:188
+msgid "العربية"
+msgstr ""
+
+#: Controller/AppController.php:191
+msgid "francais"
+msgstr ""
+
+#: Controller/AppController.php:194
+msgid "english"
+msgstr ""
+
+#: Controller/CategoriesController.php:39;74;99;152;190;217
+msgid "Invalid category"
+msgstr ""
+
+#: Controller/CategoriesController.php:57;78;170;196
+msgid "The category has been saved."
+msgstr ""
+
+#: Controller/CategoriesController.php:60;81;173;199
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:103;221
+msgid "The category has been deleted."
+msgstr ""
+
+#: Controller/CategoriesController.php:105;223
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ContactsController.php:93
+msgid ""
+"Votre demande est envoyée avec succès! Vous serez contacter dans les plus "
+"bref d&eacute;lais."
+msgstr ""
+
+#: Controller/ContactsController.php:97
+msgid "echec"
+msgstr ""
+
+#: Controller/ContactsController.php:116;137;206;229
+msgid "The contact has been saved."
+msgstr ""
+
+#: Controller/ContactsController.php:119;140;209;232
+msgid "The contact could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContactsController.php:133;158;188;223;250
+msgid "Invalid contact"
+msgstr ""
+
+#: Controller/ContactsController.php:162;254
+msgid "The contact has been deleted."
+msgstr ""
+
+#: Controller/ContactsController.php:164;256
+msgid "The contact could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ContenusesController.php:41;55;93;120;153;199;232
+msgid "Invalid contenus"
+msgstr ""
+
+#: Controller/ContenusesController.php:74;97;174;205
+msgid "The contenus has been saved."
+msgstr ""
+
+#: Controller/ContenusesController.php:77;100;177;208
+msgid "The contenus could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContenusesController.php:124;236
+msgid "The contenus has been deleted."
+msgstr ""
+
+#: Controller/ContenusesController.php:126;238
+msgid "The contenus could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ImageContenusesController.php:39;72;97;132;167;193
+#: Controller/ImageContenusesController00.php:39;74;101;131;166;193
+msgid "Invalid image contenus"
+msgstr ""
+
+#: Controller/ImageContenusesController.php:55;76;149;171
+#: Controller/ImageContenusesController00.php:55;78;147;170
+msgid "The image contenus has been saved."
+msgstr ""
+
+#: Controller/ImageContenusesController.php:58;79;152;175
+#: Controller/ImageContenusesController00.php:58;81;150;173
+msgid "The image contenus could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ImageContenusesController.php:101;197
+#: Controller/ImageContenusesController00.php:105;197
+msgid "The image contenus has been deleted."
+msgstr ""
+
+#: Controller/ImageContenusesController.php:103;199
+#: Controller/ImageContenusesController00.php:107;199
+msgid "The image contenus could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ImageprodsController.php:37;72;99;133;172;202
+msgid "Invalid imageprod"
+msgstr ""
+
+#: Controller/ImageprodsController.php:53;76;151;176
+msgid "The imageprod has been saved."
+msgstr ""
+
+#: Controller/ImageprodsController.php:56;79;154;182
+msgid "The imageprod could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ImageprodsController.php:103;206
+msgid "The imageprod has been deleted."
+msgstr ""
+
+#: Controller/ImageprodsController.php:105;208
+msgid "The imageprod could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/InfositesController.php:37;70;95;131;171;200
+msgid "Invalid infosite"
+msgstr ""
+
+#: Controller/InfositesController.php:53;74;152;179
+msgid "The infosite has been saved."
+msgstr ""
+
+#: Controller/InfositesController.php:56;77;155;182
+msgid "The infosite could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/InfositesController.php:99;204
+msgid "The infosite has been deleted."
+msgstr ""
+
+#: Controller/InfositesController.php:101;206
+msgid "The infosite could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MenusController.php:46;82;108;140;184;216
+msgid "Invalid menu"
+msgstr ""
+
+#: Controller/MenusController.php:65;86;162;190
+msgid "The menu has been saved."
+msgstr ""
+
+#: Controller/MenusController.php:68;89;165;193
+msgid "The menu could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MenusController.php:112;220
+msgid "The menu has been deleted."
+msgstr ""
+
+#: Controller/MenusController.php:114;222
+msgid "The menu could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ProduitsController.php:62;95;120;169;211;244
+msgid "Invalid produit"
+msgstr ""
+
+#: Controller/ProduitsController.php:78;99;187;217
+msgid "The produit has been saved."
+msgstr ""
+
+#: Controller/ProduitsController.php:81;102;190;220
+msgid "The produit could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProduitsController.php:124;248
+msgid "The produit has been deleted."
+msgstr ""
+
+#: Controller/ProduitsController.php:126;250
+msgid "The produit could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ReferencesController.php:47;83;108;156;194;221
+msgid "Invalid reference"
+msgstr ""
+
+#: Controller/ReferencesController.php:64;87;175;200
+msgid "The reference has been saved."
+msgstr ""
+
+#: Controller/ReferencesController.php:67;90;178;203
+msgid "The reference could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ReferencesController.php:112;225
+msgid "The reference has been deleted."
+msgstr ""
+
+#: Controller/ReferencesController.php:114;227
+msgid "The reference could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ServicesController.php:75;108;133;166;209;236
+msgid "Invalid service"
+msgstr ""
+
+#: Controller/ServicesController.php:91;112;187;215
+msgid "The service has been saved."
+msgstr ""
+
+#: Controller/ServicesController.php:94;115;190;218
+msgid "The service could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ServicesController.php:137;240
+msgid "The service has been deleted."
+msgstr ""
+
+#: Controller/ServicesController.php:139;242
+msgid "The service could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SlideshowsController.php:41;74;99;132;173;200
+msgid "Invalid slideshow"
+msgstr ""
+
+#: Controller/SlideshowsController.php:57;78;154;179
+msgid "The slideshow has been saved."
+msgstr ""
+
+#: Controller/SlideshowsController.php:60;81;157;182
+msgid "The slideshow could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SlideshowsController.php:103;204
+msgid "The slideshow has been deleted."
+msgstr ""
+
+#: Controller/SlideshowsController.php:105;206
+msgid "The slideshow could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:51;84;110;142;204;231
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:67;89;185;210
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:70;92;188;213
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:114;235
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:116;237
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:164
+msgid "Nom d'utilisateur ou mot de passe invalide, réessayer"
+msgstr ""
+
+#: View/Actualites/admin_index.ctp:120 View/Actualites/admin_view.ctp:87
+#: View/Actualites/view - Copie.ctp:87 View/Actualites/view.ctp:87
+#: View/Categories/admin_index.ctp:133 View/Categories/admin_view.ctp:102
+#: View/Categories/index.ctp:135 View/Categories/view.ctp:102
+#: View/Contacts/admin_index.ctp:119 View/Contacts/admin_view.ctp:87
+#: View/Contacts/index Copie.ctp:120 View/Contacts/view.ctp:87
+#: View/Contenuses/admin_index.ctp:153 View/Contenuses/admin_view.ctp:117
+#: View/Contenuses/index.ctp:150 View/Contenuses/view.ctp:117
+#: View/ImageContenuses/admin_index.ctp:93
+#: View/ImageContenuses/admin_view.ctp:57 View/ImageContenuses/index.ctp:90
+#: View/ImageContenuses/view.ctp:57 View/ImageContenuses000/admin_index.ctp:91
+#: View/ImageContenuses000/admin_view.ctp:57
+#: View/ImageContenuses000/index.ctp:90 View/ImageContenuses000/view.ctp:57
+#: View/Imageprods/admin_index.ctp:97 View/Imageprods/admin_view.ctp:57
+#: View/Imageprods/index.ctp:90 View/Imageprods/view.ctp:57
+#: View/Infosites/admin_index.ctp:137 View/Infosites/admin_view.ctp:97
+#: View/Infosites/index.ctp:130 View/Infosites/view.ctp:97
+#: View/Menus/admin_index.ctp:116 View/Menus/admin_view.ctp:72
+#: View/Menus/index.ctp:105 View/Menus/view.ctp:72
+#: View/Produits/admin_index.ctp:174 View/Produits/admin_view.ctp:142
+#: View/Produits/index.ctp:175 View/Produits/view.ctp:142
+#: View/Produits00/admin_index.ctp:175 View/Produits00/admin_view.ctp:142
+#: View/Produits00/index.ctp:175 View/Produits00/view.ctp:142
+#: View/References/admin_index.ctp:96 View/References/admin_view.ctp:62
+#: View/References/view.ctp:62 View/Services/admin_index.ctp:105
+#: View/Services/admin_view.ctp:72 View/Services/view.ctp:72
+#: View/Slideshows/admin_index.ctp:145 View/Slideshows/admin_view.ctp:112
+#: View/Slideshows/index.ctp:145 View/Slideshows/view.ctp:112
+#: View/Users/admin_index.ctp:112 View/Users/admin_view.ctp:77
+#: View/Users/index.ctp:110 View/Users/view.ctp:77
+msgid "Actions"
+msgstr ""
+
+#: View/Actualites/admin_index.ctp:163 View/Categories/admin_index.ctp:178
+#: View/Categories/index.ctp:162 View/Contacts/admin_index.ctp:144
+#: View/Contacts/index - Copie.ctp:144 View/Contenuses/admin_index.ctp:197
+#: View/Contenuses/index.ctp:182 View/ImageContenuses/admin_index.ctp:115
+#: View/ImageContenuses/index.ctp:108
+#: View/ImageContenuses000/admin_index.ctp:110
+#: View/ImageContenuses000/index.ctp:108 View/Imageprods/admin_index.ctp:124
+#: View/Imageprods/index.ctp:110 View/Infosites/admin_index.ctp:171
+#: View/Infosites/index.ctp:156 View/Menus/admin_index.ctp:156
+#: View/Menus/index.ctp:126 View/Produits/admin_index.ctp:211
+#: View/Produits/index.ctp:210 View/Produits00/admin_index.ctp:210
+#: View/Produits00/index.ctp:210 View/References/admin_index.ctp:132
+#: View/Services/admin_index.ctp:127 View/Slideshows/admin_index.ctp:191
+#: View/Slideshows/index.ctp:174 View/Users/admin_index.ctp:146
+#: View/Users/index.ctp:132
+msgid "<i class='fa fa-edit'></i>"
+msgstr ""
+
+#: View/Actualites/admin_index.ctp:164 View/Categories/admin_index.ctp:179
+#: View/Categories/index.ctp:163 View/Contacts/admin_index.ctp:145
+#: View/Contacts/index - Copie.ctp:145 View/Contenuses/admin_index.ctp:198
+#: View/Contenuses/index.ctp:183 View/ImageContenuses/admin_index.ctp:116
+#: View/ImageContenuses/index.ctp:109
+#: View/ImageContenuses000/admin_index.ctp:111
+#: View/ImageContenuses000/index.ctp:109 View/Imageprods/admin_index.ctp:125
+#: View/Imageprods/index.ctp:111 View/Infosites/admin_index.ctp:172
+#: View/Infosites/index.ctp:157 View/Menus/admin_index.ctp:157
+#: View/Menus/index.ctp:127 View/Produits/admin_index.ctp:212
+#: View/Produits/index.ctp:211 View/Produits00/admin_index.ctp:211
+#: View/Produits00/index.ctp:211 View/References/admin_index.ctp:133
+#: View/Services/admin_index.ctp:128 View/Slideshows/admin_index.ctp:192
+#: View/Slideshows/index.ctp:175 View/Users/admin_index.ctp:147
+#: View/Users/index.ctp:133
+msgid "<i class='fa fa-times'></i>"
+msgstr ""
+
+#: View/Actualites/admin_index.ctp:164 View/Categories/admin_index.ctp:179
+#: View/Categories/index.ctp:163 View/Contacts/admin_index.ctp:145
+#: View/Contacts/index - Copie.ctp:145 View/Contenuses/admin_index.ctp:198
+#: View/Contenuses/index.ctp:183 View/ImageContenuses/admin_index.ctp:116
+#: View/ImageContenuses/index.ctp:109
+#: View/ImageContenuses000/admin_index.ctp:111
+#: View/ImageContenuses000/index.ctp:109 View/Imageprods/admin_index.ctp:125
+#: View/Imageprods/index.ctp:111 View/Infosites/admin_index.ctp:172
+#: View/Infosites/index.ctp:157 View/Menus/admin_index.ctp:157
+#: View/Menus/index.ctp:127 View/Produits/admin_index.ctp:212
+#: View/Produits/index.ctp:211 View/Produits00/admin_index.ctp:211
+#: View/Produits00/index.ctp:211 View/References/admin_index.ctp:133
+#: View/Services/admin_index.ctp:128 View/Slideshows/admin_index.ctp:192
+#: View/Slideshows/index.ctp:175 View/Users/admin_index.ctp:147
+#: View/Users/index.ctp:133
+msgid "Etes-vous sûr que vous voulez supprimer # %s?"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:2 View/Actualites/view - Copie.ctp:2
+#: View/Actualites/view.ctp:2
+msgid "Actualite"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:4 View/Actualites/view - Copie.ctp:4
+#: View/Actualites/view.ctp:4 View/Categories/admin_view.ctp:4
+#: View/Categories/view.ctp:4 View/Contacts/admin_view.ctp:4
+#: View/Contacts/view.ctp:4 View/Contenuses/admin_view.ctp:4
+#: View/Contenuses/view.ctp:4 View/ImageContenuses/admin_view.ctp:4
+#: View/ImageContenuses/view.ctp:4 View/ImageContenuses000/admin_view.ctp:4
+#: View/ImageContenuses000/view.ctp:4 View/Imageprods/admin_view.ctp:4
+#: View/Imageprods/view.ctp:4 View/Infosites/admin_view.ctp:4
+#: View/Infosites/view.ctp:4 View/Menus/admin_view.ctp:4 View/Menus/view.ctp:4
+#: View/Produits/admin_view.ctp:4 View/Produits/view.ctp:4
+#: View/Produits00/admin_view.ctp:4 View/Produits00/view.ctp:4
+#: View/References/admin_view.ctp:4 View/References/view.ctp:4
+#: View/Services/admin_view.ctp:4 View/Services/view.ctp:4
+#: View/Slideshows/admin_view.ctp:4 View/Slideshows/view.ctp:4
+#: View/Users/admin_view.ctp:4 View/Users/view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:9 View/Actualites/view - Copie.ctp:9
+#: View/Actualites/view.ctp:9 View/Categories/admin_view.ctp:34
+#: View/Categories/view.ctp:34 View/Contenuses/admin_view.ctp:9
+#: View/Contenuses/view.ctp:9 View/Produits/admin_view.ctp:74
+#: View/Produits/view.ctp:74 View/Produits00/admin_view.ctp:74
+#: View/Produits00/view.ctp:74
+msgid "Fr Description"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:14 View/Actualites/view - Copie.ctp:14
+#: View/Actualites/view.ctp:14 View/Contenuses/admin_view.ctp:99
+#: View/Contenuses/view.ctp:99 View/Produits/admin_view.ctp:84
+#: View/Produits/view.ctp:84 View/Produits00/admin_view.ctp:84
+#: View/Produits00/view.ctp:84
+msgid "Fr Resume"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:19 View/Actualites/view - Copie.ctp:19
+#: View/Actualites/view.ctp:19 View/Categories/admin_view.ctp:9
+#: View/Categories/view.ctp:9 View/Imageprods/admin_view.ctp:14
+#: View/Imageprods/view.ctp:14 View/Menus/admin_view.ctp:9
+#: View/Menus/view.ctp:9 View/Produits/admin_view.ctp:9
+#: View/Produits/view.ctp:9 View/Produits00/admin_view.ctp:9
+#: View/Produits00/view.ctp:9 View/References/admin_view.ctp:9
+#: View/References/view.ctp:9
+msgid "Fr Name"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:24 View/Actualites/view - Copie.ctp:24
+#: View/Actualites/view.ctp:24 View/Contenuses/admin_view.ctp:74
+#: View/Contenuses/view.ctp:74 View/Menus/admin_view.ctp:2
+#: View/Menus/view.ctp:2
+msgid "Menu"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:29 View/Actualites/view - Copie.ctp:29
+#: View/Actualites/view.ctp:29 View/Categories/admin_view.ctp:69
+#: View/Categories/view.ctp:69 View/Contacts/admin_view.ctp:44
+#: View/Contacts/view.ctp:44 View/Contenuses/admin_view.ctp:54
+#: View/Contenuses/view.ctp:54 View/ImageContenuses/admin_view.ctp:44
+#: View/ImageContenuses/view.ctp:44 View/ImageContenuses000/admin_view.ctp:44
+#: View/ImageContenuses000/view.ctp:44 View/Imageprods/admin_view.ctp:39
+#: View/Imageprods/view.ctp:39 View/Infosites/admin_view.ctp:74
+#: View/Infosites/view.ctp:74 View/Menus/admin_view.ctp:59
+#: View/Menus/view.ctp:59 View/Produits/admin_view.ctp:94
+#: View/Produits/view.ctp:94 View/Produits00/admin_view.ctp:94
+#: View/Produits00/view.ctp:94 View/References/admin_view.ctp:44
+#: View/References/view.ctp:44 View/Services/admin_view.ctp:14
+#: View/Services/view.ctp:14 View/Slideshows/admin_view.ctp:14
+#: View/Slideshows/view.ctp:14 View/Users/admin_view.ctp:39
+#: View/Users/view.ctp:39
+msgid "Etat"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:34 View/Actualites/view - Copie.ctp:34
+#: View/Actualites/view.ctp:34 View/Categories/admin_view.ctp:74
+#: View/Categories/view.ctp:74 View/Contenuses/admin_view.ctp:49
+#: View/Contenuses/view.ctp:49 View/Menus/admin_view.ctp:54
+#: View/Menus/view.ctp:54 View/Produits/admin_view.ctp:99
+#: View/Produits/view.ctp:99 View/Produits00/admin_view.ctp:99
+#: View/Produits00/view.ctp:99 View/Services/admin_view.ctp:49
+#: View/Services/view.ctp:49 View/Slideshows/admin_view.ctp:54
+#: View/Slideshows/view.ctp:54
+msgid "Orderm"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:39 View/Actualites/view - Copie.ctp:39
+#: View/Actualites/view.ctp:39 View/Contenuses/admin_view.ctp:44
+#: View/Contenuses/view.ctp:44 View/Slideshows/admin_view.ctp:104
+#: View/Slideshows/view.ctp:104
+msgid "Position"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:44 View/Actualites/view - Copie.ctp:44
+#: View/Actualites/view.ctp:44
+msgid "Datea"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:49 View/Actualites/view - Copie.ctp:49
+#: View/Actualites/view.ctp:49
+msgid "Type"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:54 View/Actualites/view - Copie.ctp:54
+#: View/Actualites/view.ctp:54 View/Categories/admin_view.ctp:24
+#: View/Categories/view.ctp:24 View/Contenuses/admin_view.ctp:104
+#: View/Contenuses/view.ctp:104 View/ImageContenuses/admin_view.ctp:14
+#: View/ImageContenuses/view.ctp:14 View/ImageContenuses000/admin_view.ctp:14
+#: View/ImageContenuses000/view.ctp:14 View/Imageprods/admin_view.ctp:9
+#: View/Imageprods/view.ctp:9 View/Infosites/admin_view.ctp:79
+#: View/Infosites/view.ctp:79 View/Menus/admin_view.ctp:64
+#: View/Menus/view.ctp:64 View/Produits/admin_view.ctp:134
+#: View/Produits/view.ctp:134 View/Produits00/admin_view.ctp:134
+#: View/Produits00/view.ctp:134 View/References/admin_view.ctp:54
+#: View/References/view.ctp:54 View/Services/admin_view.ctp:39
+#: View/Services/view.ctp:39 View/Slideshows/admin_view.ctp:39
+#: View/Slideshows/view.ctp:39 View/Users/admin_view.ctp:69
+#: View/Users/view.ctp:69
+msgid "Photo"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:59 View/Actualites/view - Copie.ctp:59
+#: View/Actualites/view.ctp:59 View/Contenuses/admin_view.ctp:84
+#: View/Contenuses/view.ctp:84 View/Menus/admin_view.ctp:44
+#: View/Menus/view.ctp:44
+msgid "Url"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:64 View/Actualites/view - Copie.ctp:64
+#: View/Actualites/view.ctp:64 View/Categories/admin_view.ctp:49
+#: View/Categories/view.ctp:49 View/Contacts/admin_view.ctp:49
+#: View/Contacts/view.ctp:49 View/Contenuses/admin_view.ctp:24
+#: View/Contenuses/view.ctp:24 View/ImageContenuses/admin_view.ctp:24
+#: View/ImageContenuses/view.ctp:24 View/ImageContenuses000/admin_view.ctp:24
+#: View/ImageContenuses000/view.ctp:24 View/Imageprods/admin_view.ctp:19
+#: View/Imageprods/view.ctp:19 View/Infosites/admin_view.ctp:54
+#: View/Infosites/view.ctp:54 View/Menus/admin_view.ctp:24
+#: View/Menus/view.ctp:24 View/Produits/admin_view.ctp:114
+#: View/Produits/view.ctp:114 View/Produits00/admin_view.ctp:114
+#: View/Produits00/view.ctp:114 View/References/admin_view.ctp:24
+#: View/References/view.ctp:24 View/Services/admin_view.ctp:19
+#: View/Services/view.ctp:19 View/Slideshows/admin_view.ctp:19
+#: View/Slideshows/view.ctp:19 View/Users/admin_view.ctp:44
+#: View/Users/view.ctp:44
+msgid "Created"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:69 View/Actualites/view - Copie.ctp:69
+#: View/Actualites/view.ctp:69 View/Categories/admin_view.ctp:54
+#: View/Categories/view.ctp:54 View/Contacts/admin_view.ctp:54
+#: View/Contacts/view.ctp:54 View/Contenuses/admin_view.ctp:29
+#: View/Contenuses/view.ctp:29 View/ImageContenuses/admin_view.ctp:29
+#: View/ImageContenuses/view.ctp:29 View/ImageContenuses000/admin_view.ctp:29
+#: View/ImageContenuses000/view.ctp:29 View/Imageprods/admin_view.ctp:24
+#: View/Imageprods/view.ctp:24 View/Infosites/admin_view.ctp:59
+#: View/Infosites/view.ctp:59 View/Menus/admin_view.ctp:29
+#: View/Menus/view.ctp:29 View/Produits/admin_view.ctp:119
+#: View/Produits/view.ctp:119 View/Produits00/admin_view.ctp:119
+#: View/Produits00/view.ctp:119 View/References/admin_view.ctp:29
+#: View/References/view.ctp:29 View/Services/admin_view.ctp:24
+#: View/Services/view.ctp:24 View/Slideshows/admin_view.ctp:24
+#: View/Slideshows/view.ctp:24 View/Users/admin_view.ctp:49
+#: View/Users/view.ctp:49
+msgid "Usercreated"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:74 View/Actualites/view - Copie.ctp:74
+#: View/Actualites/view.ctp:74 View/Categories/admin_view.ctp:59
+#: View/Categories/view.ctp:59 View/Contacts/admin_view.ctp:59
+#: View/Contacts/view.ctp:59 View/Contenuses/admin_view.ctp:34
+#: View/Contenuses/view.ctp:34 View/ImageContenuses/admin_view.ctp:34
+#: View/ImageContenuses/view.ctp:34 View/ImageContenuses000/admin_view.ctp:34
+#: View/ImageContenuses000/view.ctp:34 View/Imageprods/admin_view.ctp:29
+#: View/Imageprods/view.ctp:29 View/Infosites/admin_view.ctp:64
+#: View/Infosites/view.ctp:64 View/Menus/admin_view.ctp:34
+#: View/Menus/view.ctp:34 View/Produits/admin_view.ctp:124
+#: View/Produits/view.ctp:124 View/Produits00/admin_view.ctp:124
+#: View/Produits00/view.ctp:124 View/References/admin_view.ctp:34
+#: View/References/view.ctp:34 View/Services/admin_view.ctp:29
+#: View/Services/view.ctp:29 View/Slideshows/admin_view.ctp:29
+#: View/Slideshows/view.ctp:29 View/Users/admin_view.ctp:54
+#: View/Users/view.ctp:54
+msgid "Modify"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:79 View/Actualites/view - Copie.ctp:79
+#: View/Actualites/view.ctp:79 View/Categories/admin_view.ctp:64
+#: View/Categories/view.ctp:64 View/Contacts/admin_view.ctp:64
+#: View/Contacts/view.ctp:64 View/Contenuses/admin_view.ctp:39
+#: View/Contenuses/view.ctp:39 View/ImageContenuses/admin_view.ctp:39
+#: View/ImageContenuses/view.ctp:39 View/ImageContenuses000/admin_view.ctp:39
+#: View/ImageContenuses000/view.ctp:39 View/Imageprods/admin_view.ctp:34
+#: View/Imageprods/view.ctp:34 View/Infosites/admin_view.ctp:69
+#: View/Infosites/view.ctp:69 View/Menus/admin_view.ctp:39
+#: View/Menus/view.ctp:39 View/Produits/admin_view.ctp:129
+#: View/Produits/view.ctp:129 View/Produits00/admin_view.ctp:129
+#: View/Produits00/view.ctp:129 View/References/admin_view.ctp:39
+#: View/References/view.ctp:39 View/Services/admin_view.ctp:34
+#: View/Services/view.ctp:34 View/Slideshows/admin_view.ctp:34
+#: View/Slideshows/view.ctp:34 View/Users/admin_view.ctp:59
+#: View/Users/view.ctp:59
+msgid "Usermodify"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:89 View/Actualites/view - Copie.ctp:89
+#: View/Actualites/view.ctp:89
+msgid "Edit Actualite"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:90 View/Actualites/view - Copie.ctp:90
+#: View/Actualites/view.ctp:90
+msgid "Delete Actualite"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:90 View/Actualites/view - Copie.ctp:90
+#: View/Actualites/view.ctp:90 View/Categories/admin_view.ctp:105
+#: View/Categories/view.ctp:105 View/Contacts/admin_view.ctp:90
+#: View/Contacts/view.ctp:90 View/Contenuses/admin_view.ctp:120
+#: View/Contenuses/view.ctp:120 View/ImageContenuses/admin_view.ctp:60
+#: View/ImageContenuses/view.ctp:60 View/ImageContenuses000/admin_view.ctp:60
+#: View/ImageContenuses000/view.ctp:60 View/Imageprods/admin_view.ctp:60
+#: View/Imageprods/view.ctp:60 View/Infosites/admin_view.ctp:100
+#: View/Infosites/view.ctp:100 View/Menus/admin_view.ctp:75
+#: View/Menus/view.ctp:75 View/Produits/admin_view.ctp:145
+#: View/Produits/view.ctp:145 View/Produits00/admin_view.ctp:145
+#: View/Produits00/view.ctp:145 View/References/admin_view.ctp:65
+#: View/References/view.ctp:65 View/Services/admin_view.ctp:75
+#: View/Services/view.ctp:75 View/Slideshows/admin_view.ctp:115
+#: View/Slideshows/view.ctp:115 View/Users/admin_view.ctp:80
+#: View/Users/view.ctp:80
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:91 View/Actualites/view - Copie.ctp:91
+#: View/Actualites/view.ctp:91
+msgid "List Actualites"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:92 View/Actualites/view - Copie.ctp:92
+#: View/Actualites/view.ctp:92
+msgid "New Actualite"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:93 View/Actualites/view - Copie.ctp:93
+#: View/Actualites/view.ctp:93 View/Contenuses/admin_view.ctp:123
+#: View/Contenuses/view.ctp:123 View/Menus/admin_view.ctp:76
+#: View/Menus/view.ctp:76
+msgid "List Menus"
+msgstr ""
+
+#: View/Actualites/admin_view.ctp:94 View/Actualites/view - Copie.ctp:94
+#: View/Actualites/view.ctp:94 View/Contenuses/admin_view.ctp:124
+#: View/Contenuses/view.ctp:124 View/Menus/admin_view.ctp:77
+#: View/Menus/view.ctp:77
+msgid "New Menu"
+msgstr ""
+
+#: View/Categories/admin_index.ctp:177 View/Categories/index.ctp:161
+#: View/Contacts/index - Copie.ctp:143 View/Contenuses/index.ctp:181
+#: View/ImageContenuses/index.ctp:107
+#: View/ImageContenuses000/admin_index.ctp:109
+#: View/ImageContenuses000/index.ctp:107 View/Imageprods/index.ctp:109
+#: View/Infosites/index.ctp:155 View/Menus/index.ctp:125
+#: View/Produits/index.ctp:209 View/Produits00/admin_index.ctp:209
+#: View/Produits00/index.ctp:209 View/References/admin_index.ctp:131
+#: View/Services/admin_index.ctp:126 View/Slideshows/index.ctp:173
+#: View/Users/index.ctp:131
+msgid "<i class='fa fa-search'></i>"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:2 View/Categories/view.ctp:2
+msgid "Category"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:14 View/Categories/view.ctp:14
+#: View/Menus/admin_view.ctp:19 View/Menus/view.ctp:19
+#: View/Produits/admin_view.ctp:14 View/Produits/view.ctp:14
+#: View/Produits00/admin_view.ctp:14 View/Produits00/view.ctp:14
+#: View/References/admin_view.ctp:14 View/References/view.ctp:14
+msgid "An Name"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:19 View/Categories/view.ctp:19
+msgid "It Name"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:29 View/Categories/view.ctp:29
+msgid "Photos"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:39 View/Categories/view.ctp:39
+#: View/Contenuses/admin_view.ctp:19 View/Contenuses/view.ctp:19
+#: View/Produits/admin_view.ctp:79 View/Produits/view.ctp:79
+#: View/Produits00/admin_view.ctp:79 View/Produits00/view.ctp:79
+msgid "An Description"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:44 View/Categories/view.ctp:44
+#: View/Produits/admin_view.ctp:109 View/Produits/view.ctp:109
+#: View/Produits00/admin_view.ctp:109 View/Produits00/view.ctp:109
+msgid "Couleurs"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:79 View/Categories/view.ctp:79
+msgid "Pdf"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:84 View/Categories/view.ctp:84
+#: View/Menus/admin_view.ctp:49 View/Menus/view.ctp:49
+#: View/Services/admin_view.ctp:64 View/Services/view.ctp:64
+msgid "Parent"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:89 View/Categories/view.ctp:89
+msgid "Famille"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:94 View/Categories/view.ctp:94
+#: View/Slideshows/admin_view.ctp:44 View/Slideshows/view.ctp:44
+msgid "Photo1"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:104 View/Categories/view.ctp:104
+msgid "Edit Category"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:105 View/Categories/view.ctp:105
+msgid "Delete Category"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:106 View/Categories/view.ctp:106
+msgid "List Categories"
+msgstr ""
+
+#: View/Categories/admin_view.ctp:107 View/Categories/view.ctp:107
+msgid "New Category"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:2 View/Contacts/view.ctp:2
+#: View/Elements/footer.ctp:97
+msgid "Contact"
+msgstr "Contact"
+
+#: View/Contacts/admin_view.ctp:9 View/Contacts/view.ctp:9
+msgid "Nom"
+msgstr "Name"
+
+#: View/Contacts/admin_view.ctp:14 View/Contacts/view.ctp:14
+msgid "Tel"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:19 View/Contacts/index.ctp:71
+#: View/Contacts/view.ctp:19 View/Infosites/admin_view.ctp:9
+#: View/Infosites/view.ctp:9 View/Users/admin_view.ctp:29
+#: View/Users/view.ctp:29
+msgid "Email"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:24 View/Contacts/view.ctp:24
+msgid "Sujet"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:29 View/Contacts/view.ctp:29
+msgid "Statut"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:34 View/Contacts/view.ctp:34
+msgid "Nbr Salarie"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:39 View/Contacts/view.ctp:39
+msgid "Type Msg"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:69 View/Contacts/view.ctp:69
+msgid "Message"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:74 View/Contacts/view.ctp:74
+msgid "Client"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:79 View/Contacts/view.ctp:79
+msgid "Nom Socite"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:89 View/Contacts/view.ctp:89
+msgid "Edit Contact"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:90 View/Contacts/view.ctp:90
+msgid "Delete Contact"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:91 View/Contacts/view.ctp:91
+msgid "List Contacts"
+msgstr ""
+
+#: View/Contacts/admin_view.ctp:92 View/Contacts/view.ctp:92
+msgid "New Contact"
+msgstr ""
+
+#: View/Contacts/index.ctp:14 View/Contenuses/liste_contenu.ctp:12
+#: View/Produits/admin_view.ctp:89 View/Produits/view.ctp:89
+#: View/Produits00/admin_view.ctp:89 View/Produits00/view.ctp:89
+#: View/References/index.ctp:14 View/Services/index.ctp:12
+msgid "Accueil"
+msgstr "Home"
+
+#: View/Contacts/index.ctp:42
+msgid "Contactez nos gars de soutien ou rendez-vous avec nos consultants"
+msgstr "Contact our supporters or go with our consultants"
+
+#: View/Contacts/index.ctp:48
+msgid "Contactez-nous en utilisant les informations ci-dessous"
+msgstr "Contact us using the information below"
+
+#: View/Contacts/index.ctp:52
+msgid "Voir sur la carte"
+msgstr "See on the map"
+
+#: View/Contacts/index.ctp:67
+msgid "Nom & prénom"
+msgstr "Name"
+
+#: View/Contacts/index.ctp:76
+msgid "Téléphone"
+msgstr "Phone"
+
+#: View/Contacts/index.ctp:86
+msgid "Votre message"
+msgstr "Message"
+
+#: View/Contacts/index.ctp:103 View/Elements/slider.ctp:43
+#: View/Pages/accueil.ctp:43
+msgid "Contactez-nous"
+msgstr "Contact us"
+
+#: View/Contenuses/admin_index.ctp:196 View/Produits/admin_index.ctp:209
+msgid "<i class='fa fa-photo'></i>"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:2 View/Contenuses/view.ctp:2
+msgid "Contenus"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:14 View/Contenuses/view.ctp:14
+msgid "Ar Description"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:59 View/Contenuses/view.ctp:59
+msgid "Fr Title"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:64 View/Contenuses/view.ctp:64
+msgid "Ar Title"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:69 View/Contenuses/view.ctp:69
+msgid "An Title"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:79 View/Contenuses/view.ctp:79
+msgid "Image"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:89 View/Contenuses/view.ctp:89
+msgid "An Resume"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:94 View/Contenuses/view.ctp:94
+msgid "Ar Resume"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:109 View/Contenuses/view.ctp:109
+#: View/Produits/admin_view.ctp:104 View/Produits/view.ctp:104
+#: View/Produits00/admin_view.ctp:104 View/Produits00/view.ctp:104
+msgid "Mot Cle"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:119 View/Contenuses/view.ctp:119
+msgid "Edit Contenus"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:120 View/Contenuses/view.ctp:120
+msgid "Delete Contenus"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:121 View/Contenuses/view.ctp:121
+msgid "List Contenuses"
+msgstr ""
+
+#: View/Contenuses/admin_view.ctp:122 View/Contenuses/view.ctp:122
+msgid "New Contenus"
+msgstr ""
+
+#: View/Elements/footer.ctp:34
+msgid "Site Map"
+msgstr "Site Map"
+
+#: View/Elements/footer.ctp:116
+msgid "Services"
+msgstr "Services"
+
+#: View/ImageContenuses/admin_view.ctp:2 View/ImageContenuses/view.ctp:2
+#: View/ImageContenuses000/admin_view.ctp:2 View/ImageContenuses000/view.ctp:2
+msgid "Image Contenus"
+msgstr ""
+
+#: View/ImageContenuses/admin_view.ctp:9 View/ImageContenuses/view.ctp:9
+#: View/ImageContenuses000/admin_view.ctp:9 View/ImageContenuses000/view.ctp:9
+msgid "Namep"
+msgstr ""
+
+#: View/ImageContenuses/admin_view.ctp:19 View/ImageContenuses/view.ctp:19
+#: View/ImageContenuses000/admin_view.ctp:19
+#: View/ImageContenuses000/view.ctp:19
+msgid "Contenu Id"
+msgstr ""
+
+#: View/ImageContenuses/admin_view.ctp:49 View/ImageContenuses/view.ctp:49
+#: View/ImageContenuses000/admin_view.ctp:49
+#: View/ImageContenuses000/view.ctp:49 View/Imageprods/admin_view.ctp:44
+#: View/Imageprods/view.ctp:44 View/References/admin_view.ctp:49
+#: View/References/view.ctp:49
+msgid "Defau"
+msgstr ""
+
+#: View/ImageContenuses/admin_view.ctp:59 View/ImageContenuses/view.ctp:59
+#: View/ImageContenuses000/admin_view.ctp:59
+#: View/ImageContenuses000/view.ctp:59
+msgid "Edit Image Contenus"
+msgstr ""
+
+#: View/ImageContenuses/admin_view.ctp:60 View/ImageContenuses/view.ctp:60
+#: View/ImageContenuses000/admin_view.ctp:60
+#: View/ImageContenuses000/view.ctp:60
+msgid "Delete Image Contenus"
+msgstr ""
+
+#: View/ImageContenuses/admin_view.ctp:61 View/ImageContenuses/view.ctp:61
+#: View/ImageContenuses000/admin_view.ctp:61
+#: View/ImageContenuses000/view.ctp:61
+msgid "List Image Contenuses"
+msgstr ""
+
+#: View/ImageContenuses/admin_view.ctp:62 View/ImageContenuses/view.ctp:62
+#: View/ImageContenuses000/admin_view.ctp:62
+#: View/ImageContenuses000/view.ctp:62
+msgid "New Image Contenus"
+msgstr ""
+
+#: View/Imageprods/admin_view.ctp:2 View/Imageprods/view.ctp:2
+msgid "Imageprod"
+msgstr ""
+
+#: View/Imageprods/admin_view.ctp:49 View/Imageprods/view.ctp:49
+#: View/Produits/admin_view.ctp:2 View/Produits/view.ctp:2
+#: View/Produits00/admin_view.ctp:2 View/Produits00/view.ctp:2
+msgid "Produit"
+msgstr ""
+
+#: View/Imageprods/admin_view.ctp:59 View/Imageprods/view.ctp:59
+msgid "Edit Imageprod"
+msgstr ""
+
+#: View/Imageprods/admin_view.ctp:60 View/Imageprods/view.ctp:60
+msgid "Delete Imageprod"
+msgstr ""
+
+#: View/Imageprods/admin_view.ctp:61 View/Imageprods/view.ctp:61
+msgid "List Imageprods"
+msgstr ""
+
+#: View/Imageprods/admin_view.ctp:62 View/Imageprods/view.ctp:62
+msgid "New Imageprod"
+msgstr ""
+
+#: View/Imageprods/admin_view.ctp:63 View/Imageprods/view.ctp:63
+#: View/Produits/admin_view.ctp:146 View/Produits/view.ctp:146
+#: View/Produits00/admin_view.ctp:146 View/Produits00/view.ctp:146
+msgid "List Produits"
+msgstr ""
+
+#: View/Imageprods/admin_view.ctp:64 View/Imageprods/view.ctp:64
+#: View/Produits/admin_view.ctp:147 View/Produits/view.ctp:147
+#: View/Produits00/admin_view.ctp:147 View/Produits00/view.ctp:147
+msgid "New Produit"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:2 View/Infosites/view.ctp:2
+msgid "Infosite"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:14 View/Infosites/view.ctp:14
+msgid "Fr Adresse"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:19 View/Infosites/view.ctp:19
+msgid "An Adresse"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:24 View/Infosites/view.ctp:24
+msgid "Fixe"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:29 View/Infosites/view.ctp:29
+msgid "Gsm"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:34 View/Infosites/view.ctp:34
+#: View/Services/admin_view.ctp:9 View/Services/view.ctp:9
+#: View/Slideshows/admin_view.ctp:9 View/Slideshows/view.ctp:9
+#: View/Users/admin_view.ctp:24 View/Users/view.ctp:24
+msgid "Name"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:39 View/Infosites/view.ctp:39
+msgid "Siteweb"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:44 View/Infosites/view.ctp:44
+msgid "Fr Responsable"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:49 View/Infosites/view.ctp:49
+msgid "Ar Responsable"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:84 View/Infosites/view.ctp:84
+msgid "Fax"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:89 View/Infosites/view.ctp:89
+msgid "Maps"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:99 View/Infosites/view.ctp:99
+msgid "Edit Infosite"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:100 View/Infosites/view.ctp:100
+msgid "Delete Infosite"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:101 View/Infosites/view.ctp:101
+msgid "List Infosites"
+msgstr ""
+
+#: View/Infosites/admin_view.ctp:102 View/Infosites/view.ctp:102
+msgid "New Infosite"
+msgstr ""
+
+#: View/Menus/admin_view.ctp:14 View/Menus/view.ctp:14
+msgid "Ar Name"
+msgstr ""
+
+#: View/Menus/admin_view.ctp:74 View/Menus/view.ctp:74
+msgid "Edit Menu"
+msgstr ""
+
+#: View/Menus/admin_view.ctp:75 View/Menus/view.ctp:75
+msgid "Delete Menu"
+msgstr ""
+
+#: View/Pages/accueil.ctp:8
+msgid "Nos services"
+msgstr "Our services"
+
+#: View/Pages/accueil.ctp:22;65 View/Services/index.ctp:64
+msgid "Lire la suite"
+msgstr "Read more"
+
+#: View/Pages/accueil.ctp:40
+msgid "Voulez-vous consulter notre consultant?"
+msgstr "Would you like to consult our consultant?"
+
+#: View/Produits/admin_view.ctp:19 View/Produits/view.ctp:19
+#: View/Produits00/admin_view.ctp:19 View/Produits00/view.ctp:19
+#: View/References/admin_view.ctp:2 View/References/view.ctp:2
+msgid "Reference"
+msgstr "Reference"
+
+#: View/Produits/admin_view.ctp:24 View/Produits/view.ctp:24
+#: View/Produits00/admin_view.ctp:24 View/Produits00/view.ctp:24
+msgid "Contrat"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:29 View/Produits/view.ctp:29
+#: View/Produits00/admin_view.ctp:29 View/Produits00/view.ctp:29
+msgid "Categorie Id"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:34 View/Produits/view.ctp:34
+#: View/Produits00/admin_view.ctp:34 View/Produits00/view.ctp:34
+msgid "Id Ville"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:39 View/Produits/view.ctp:39
+#: View/Produits00/admin_view.ctp:39 View/Produits00/view.ctp:39
+msgid "Id Region"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:44 View/Produits/view.ctp:44
+#: View/Produits00/admin_view.ctp:44 View/Produits00/view.ctp:44
+msgid "Id Zone"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:49 View/Produits/view.ctp:49
+#: View/Produits00/admin_view.ctp:49 View/Produits00/view.ctp:49
+msgid "Surface"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:54 View/Produits/view.ctp:54
+#: View/Produits00/admin_view.ctp:54 View/Produits00/view.ctp:54
+msgid "Nb Piece"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:59 View/Produits/view.ctp:59
+#: View/Produits00/admin_view.ctp:59 View/Produits00/view.ctp:59
+msgid "Prix"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:64 View/Produits/view.ctp:64
+#: View/Produits00/admin_view.ctp:64 View/Produits00/view.ctp:64
+msgid "Visible"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:69 View/Produits/view.ctp:69
+#: View/Produits00/admin_view.ctp:69 View/Produits00/view.ctp:69
+msgid "Fichier Pdf"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:144 View/Produits/view.ctp:144
+#: View/Produits00/admin_view.ctp:144 View/Produits00/view.ctp:144
+msgid "Edit Produit"
+msgstr ""
+
+#: View/Produits/admin_view.ctp:145 View/Produits/view.ctp:145
+#: View/Produits00/admin_view.ctp:145 View/Produits00/view.ctp:145
+msgid "Delete Produit"
+msgstr ""
+
+#: View/References/admin_view.ctp:19 View/References/view.ctp:19
+msgid "Id Secteur"
+msgstr ""
+
+#: View/References/admin_view.ctp:64 View/References/view.ctp:64
+msgid "Edit Reference"
+msgstr ""
+
+#: View/References/admin_view.ctp:65 View/References/view.ctp:65
+msgid "Delete Reference"
+msgstr ""
+
+#: View/References/admin_view.ctp:66 View/References/view.ctp:66
+msgid "List References"
+msgstr ""
+
+#: View/References/admin_view.ctp:67 View/References/view.ctp:67
+msgid "New Reference"
+msgstr ""
+
+#: View/Services/admin_view.ctp:2 View/Services/view.ctp:2
+msgid "Service"
+msgstr ""
+
+#: View/Services/admin_view.ctp:44 View/Services/view.ctp:44
+msgid "Id Contenu"
+msgstr ""
+
+#: View/Services/admin_view.ctp:54 View/Services/view.ctp:54
+msgid "Resume"
+msgstr ""
+
+#: View/Services/admin_view.ctp:59 View/Services/view.ctp:59
+msgid "Description"
+msgstr ""
+
+#: View/Services/admin_view.ctp:74 View/Services/view.ctp:74
+msgid "Edit Service"
+msgstr ""
+
+#: View/Services/admin_view.ctp:75 View/Services/view.ctp:75
+msgid "Delete Service"
+msgstr ""
+
+#: View/Services/admin_view.ctp:76 View/Services/view.ctp:76
+msgid "List Services"
+msgstr ""
+
+#: View/Services/admin_view.ctp:77 View/Services/view.ctp:77
+msgid "New Service"
+msgstr ""
+
+#: View/Services/index.ctp:33
+msgid "All"
+msgstr "All"
+
+#: View/Slideshows/admin_view.ctp:2 View/Slideshows/view.ctp:2
+msgid "Slideshow"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:49 View/Slideshows/view.ctp:49
+msgid "Id Prod"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:59 View/Slideshows/view.ctp:59
+msgid "Fr Text1"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:64 View/Slideshows/view.ctp:64
+msgid "Fr Text2"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:69 View/Slideshows/view.ctp:69
+msgid "Fr Text3"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:74 View/Slideshows/view.ctp:74
+msgid "Fr Text4"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:79 View/Slideshows/view.ctp:79
+msgid "An Text1"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:84 View/Slideshows/view.ctp:84
+msgid "An Text2"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:89 View/Slideshows/view.ctp:89
+msgid "An Text3"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:94 View/Slideshows/view.ctp:94
+msgid "An Text4"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:99 View/Slideshows/view.ctp:99
+msgid "Lien"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:114 View/Slideshows/view.ctp:114
+msgid "Edit Slideshow"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:115 View/Slideshows/view.ctp:115
+msgid "Delete Slideshow"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:116 View/Slideshows/view.ctp:116
+msgid "List Slideshows"
+msgstr ""
+
+#: View/Slideshows/admin_view.ctp:117 View/Slideshows/view.ctp:117
+msgid "New Slideshow"
+msgstr ""
+
+#: View/Users/admin_view.ctp:2 View/Users/view.ctp:2
+msgid "User"
+msgstr ""
+
+#: View/Users/admin_view.ctp:9 View/Users/view.ctp:9
+msgid "Login"
+msgstr ""
+
+#: View/Users/admin_view.ctp:14 View/Users/view.ctp:14
+msgid "Mot Passe"
+msgstr ""
+
+#: View/Users/admin_view.ctp:19 View/Users/view.ctp:19
+msgid "Mpas"
+msgstr ""
+
+#: View/Users/admin_view.ctp:34 View/Users/view.ctp:34
+msgid "Categorie"
+msgstr ""
+
+#: View/Users/admin_view.ctp:64 View/Users/view.ctp:64
+msgid "Id Frs"
+msgstr ""
+
+#: View/Users/admin_view.ctp:79 View/Users/view.ctp:79
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/admin_view.ctp:80 View/Users/view.ctp:80
+msgid "Delete User"
+msgstr ""
+
+#: View/Users/admin_view.ctp:81 View/Users/view.ctp:81
+msgid "List Users"
+msgstr ""
+
+#: View/Users/admin_view.ctp:82 View/Users/view.ctp:82
+msgid "New User"
+msgstr ""
+
+#: Model/Category.php:validation for field fr_name Model/Contact.php:validation
+#: nom Model/Menu.php:validation id;validation name;validation etat
+#: Model/Produit.php:validation id Model/Reference.php:validation
+#: Model/User.php:validation login;validation mot_passe;validation
+#: mpas;validation
+msgid "notBlank"
+msgstr ""
+
+#: Model/Menu.php:validation for field created;validation modify
+#: Model/User.php:validation
+msgid "datetime"
+msgstr ""
+
+#: Model/Menu.php:validation for field usercreated;validation usermodify
+#: Model/User.php:validation
+msgid "numeric"
+msgstr ""
+
+#: Model/Reference.php:validation for field an_name;validation id_secteur
+msgid "n"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "email"
+msgstr ""

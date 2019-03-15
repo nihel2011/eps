@@ -1,0 +1,103 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:193
+msgid "This field has not been defined between the parameters of MeioUploadBehavior."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:196
+msgid "The directory where the file would be placed there or is protected against writing."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:199
+msgid "The file can not be empty."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:202
+msgid "There were problems in uploading the file."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:205
+msgid "The maximum file size is exceeded."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:208
+msgid "Invalid file type."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:211
+msgid "Invalid file extension."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:214
+msgid "Image width is smaller than minimum allowed."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:217
+msgid "Image height is smaller than minimum allowed."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:220
+msgid "Image width is larger than maximum allowed."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:223
+msgid "Image height is larger than maximum allowed."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:226
+msgid "The uploaded file did not use http POST. Suspected security issue."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:262
+msgid "MeioUploadBehavior Error: The field \"%s\" doesn't exists in the model \"%s\"."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:268
+msgid "MeioUploadBehavior Error: The default option must be the filename with extension."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:277
+msgid "MeioUploadBehavior Error: The thumbsizes names must be alphanumeric."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:438
+msgid "MeioUploadBehavior Error: The field \"%s\" wasn't declared as part of the MeioUploadBehavior in model \"%s\"."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:475
+msgid "MeioUploadBehavior Error: The directory %s does not exist and cannot be created."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:479
+msgid "MeioUploadBehavior Error: The directory %s does not exist."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:486
+msgid "MeioUploadBehavior Error: The directory %s isn't writable."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:1163
+msgid "MeioUploadBehavior Error: The max_size option format is invalid."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:1176
+msgid "MeioUploadBehavior Error: The max_size unit is invalid."
+msgstr ""
+
+#: Plugin/MeioUpload/Model/Behavior/MeioUploadBehavior.php:1251
+msgid "Problems in the copy of the file."
+msgstr ""
+
